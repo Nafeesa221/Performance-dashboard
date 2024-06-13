@@ -22,6 +22,8 @@ This repository contains a Power BI dashboard developed to analyze the performan
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-# Contact
-For any questions or feedback, please contact Your Name.
+# Additional Information
+- **Version**: 1.0
+- **Author**: Nafeesa Karim
+- **Contact**: nafeesakarim22@outlook.com
 
