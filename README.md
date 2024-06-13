@@ -20,7 +20,7 @@ This repository contains a Power BI dashboard developed to analyze the performan
 
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 # Contact
 For any questions or feedback, please contact Your Name.
